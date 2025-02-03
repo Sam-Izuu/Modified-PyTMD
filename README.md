@@ -15,4 +15,4 @@ Or visit https://github.com/tsutterley/pyTMD
 
 # Installation
 From PyPI:
-python3 -m pip install pyTMD
+  python3 -m pip install pyTMD
